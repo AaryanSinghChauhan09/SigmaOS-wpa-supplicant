@@ -1,0 +1,11 @@
+[package]
+name = "sigmaos-wpa-supplicant"
+version = "0.1.0"
+edition = "2021"
+authors = ["SigmaOS Contributors"]
+description = "SigmaOS wpa-supplicant component"
+license = "MIT OR Apache-2.0"
+
+[lib]
+name = "sigmaos_wpa-supplicant"
+path = "src/lib.rs"
