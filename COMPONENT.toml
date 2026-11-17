@@ -3,7 +3,7 @@ name = "SigmaOS-wpa-supplicant"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "wpa-supplicant component"
+description = "GitHub repository has no published branch; component scope remains unclassified."
 upstream = []
 
 [contract]
